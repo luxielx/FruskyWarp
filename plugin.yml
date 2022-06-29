@@ -1,0 +1,9 @@
+name: FruskyTeleport
+main: SolarWarp.Main
+version: 1.0
+depend: [Essentials]
+commands:
+    warp:
+        description: Such Wow , much Wow
+    spawn:
+        description: Such Wow , much Wow

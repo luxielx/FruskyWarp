@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FruskyTeleport">
+    <output-path>$PROJECT_DIR$/../artifacts</output-path>
+    <root id="archive" name="FruskyTeleport.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="SolarWarp" />
+    </root>
+  </artifact>
+</component>
